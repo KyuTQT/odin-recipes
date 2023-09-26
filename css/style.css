@@ -1,0 +1,39 @@
+body {
+    background-color: bisque;
+}
+
+.title {
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    background-color: rgb(236, 210, 178);
+    border-radius: 10px;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.subject {
+    font-size: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.center .border {
+    border-style: dotted;
+    border-width: 0;
+    padding-left: 8px;
+    background-color: rgb(192, 192, 164);
+}
+
+.index-recipe li {
+    margin-bottom: 10px;
+    margin-left: 15%;
+    font-size: 20px;
+}
+li a {
+    color: black;
+}
